@@ -1,6 +1,6 @@
 Make sure you have performed the following checks.
 
 ## Checklist
-- [ ] Testing was performed.
-- [ ] Docmentation was updated.
-- [ ] Whatever.
+- [ ] Verified.
+- [ ] Applicable Release notes are updated.
+- [ ] If this was to fix something that you broke, you have ordered cake.
