@@ -8,10 +8,6 @@ on:
 jobs:
   task-check:
     runs-on: ubuntu-latest
-    permissions: 
-      actions: write
-      checks: write
-      pull-requests: write
     steps:
       - uses: chromaui/task-completed-checker-action@main
         with:
